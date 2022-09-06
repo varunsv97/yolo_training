@@ -34,7 +34,7 @@ Run 0_clear_all.py to clear delete.txt files in all empty folders
 
 Preprocessing:
 
-PS: Open each script and check if the paths are correct before running.
+PS: Open each script and give the paths as in your local system before running.
 
 Step 1 : If the data is in nested folders, run 1_glob.py on the repository. 
          All the files will be copied to root folder, cut and paste them in all images directory.
